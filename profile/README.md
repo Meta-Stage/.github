@@ -49,7 +49,7 @@
 ## 서비스 정보
 - Contract : 0x0dF65886541A46f2DDC7A4ac1cDDDF2FF2846F1f
 - Explorer : https://sepolia.etherscan.io/address/0x0df65886541a46f2ddc7a4ac1cdddf2ff2846f1f
-- Web Url : http://172.10.5.132/
+- Web Url : http://172.10.5.132/ (현재 운영하지 않음)
 
 ## 팀원
 - 박근원 <a href="https://github.com/RootPark" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> : Blockchain / Back-end / Planning 
